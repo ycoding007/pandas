@@ -1,0 +1,3 @@
+Imagine you as a project manager; one thing you might do on a daily basis is to look at a status report of the project. Unfortunately, that report is in Excel file, and to make thing worse, there are hundreds of line items that aren't to your interest. Sure, Excel has a filter function, but that will be too much repetitive work if you do the filtering on a daily basis. Also, new items can be added in today's report but not present in the past report. How are you going to catch this combined with other hundreds of line items after filtering in Excel?
+
+We will demonstrate how Python and Pandas together can help us summarize status changes of the items we are interested in and output a Excel summary. Let's start!
