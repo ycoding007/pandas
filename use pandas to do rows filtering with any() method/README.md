@@ -1,0 +1,1 @@
+Someone send you a Excel file asking for help... The excel file contains 3 columns, the content in these columns are either ';;;;;;;;;' or ';;;;some letters;;;;;' The person asks if you can help identify any rows that have letters embeded in those ';;;;;;;;;;' Realizing that using Excel will be painful to do the job, we resort to our friend pandas :)
